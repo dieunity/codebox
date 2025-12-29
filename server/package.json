@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bcrypt": "^6.0.0",
-    "jsonwebtoken": "^9.0.2",
+    "jsonwebtoken": "^9.0.3",
     "lib0": "^0.2.94",
     "ws": "^8.16.0",
     "y-websocket": "^2.0.4",
